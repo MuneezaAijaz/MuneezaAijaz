@@ -1,3 +1,5 @@
+![logo](https://github.com/MuneezaAijaz/MuneezaAijaz/blob/main/MUNEEZA%20AIJAZ.png)
+
 <h1 align="center">Hi 👋, I'm Muneeza Aijaz</h1>
 <h3 align="center">A passionate Student , learning software engineering.</h3>
 
