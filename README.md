@@ -10,7 +10,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://raw.githubusercontent.com/MuneezaAijaz/MuneezaAijaz/main/Apr_13__2026__09_11_15_PM-removebg-preview.png" width="400"/>
+      <img src="https://raw.githubusercontent.com/MuneezaAijaz/MuneezaAijaz/main/Apr_13__2026__09_11_15_PM-removebg-preview-removebg-preview.png" width="400"/>
     </td>
     <td>
       <h2>💫 About Me:</h2>
